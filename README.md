@@ -23,7 +23,6 @@ It's useful for analyzing community sentiment around hot topics in any subreddit
 | `reddit_sentiment.py`       | Main Python script (you may rename as needed)   |
 | `README.md`                 | Project documentation                           |
 | `.env`                      | Environment variables file *(not uploaded)*     |
-| `.gitignore`                | Git ignore file to hide `.env` and cache files |
 
 ---
 
