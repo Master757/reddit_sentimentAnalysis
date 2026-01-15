@@ -83,10 +83,10 @@ def fetch_and_analyze_post_comments(url=None, subreddit_name=None, limit=10): #l
             sentiment_summary['neutral'] += 1
         print()
 
-    print("📊 Sentiment Summary:")
+    print("+++++++++++++++++Sentiment Summary++++++++++++++++++++++++:")
     print(f"Positive: {sentiment_summary['positive']}")
     print(f"Neutral:  {sentiment_summary['neutral']}")
     print(f"Negative: {sentiment_summary['negative']}")
 
-print("Enter subredit name")# only subredit name for now
+print("Enter subredit name")# only subredit name for now [we can add more details to this printing systems as per need
 fetch_and_analyze_post_comments(subreddit_name=input())
