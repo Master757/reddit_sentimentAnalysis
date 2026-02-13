@@ -8,11 +8,11 @@ It's useful for analyzing community sentiment around hot topics in any subreddit
 
 ##  Features
 
-- 🔍 Fetches comments from a specific subreddit or Reddit post
-- 💬 Analyzes sentiment of comments using **VADER**
-- 🧠 Categorizes comments as **positive**, **neutral**, or **negative**
-- 🔁 Falls back across `hot`, `new`, and `top` posts if needed
-- ⚙️ Adjustable comment limit
+- Fetches comments from a specific subreddit or Reddit post
+- Analyzes sentiment of comments using **VADER**
+- Categorizes comments as **positive**, **neutral**, or **negative**
+- Falls back across `hot`, `new`, and `top` posts if needed
+- Adjustable comment limit
 
 ---
 
